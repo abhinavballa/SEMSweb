@@ -297,7 +297,7 @@ hr {
   font-weight: 300;
   line-height: 1.5;
   overflow-x: auto;
-  background-color: #005cbf;
+  background-color: #6f0404;
   display: flex;
 }
 
@@ -309,7 +309,7 @@ hr {
 }
 
 .banner .banner-table a {
-  color: #a3cfff;
+  color: #840a0a;
   text-decoration: none;
 }
 
@@ -700,27 +700,27 @@ ol.nested>li:before {
 .custom-text-info,
 .custom-text-info p,
 .custom-text-info a {
-  color: #17a2b8;
+  color: #690808;
 }
 
 .custom-text-info a:hover {
-  color: #007082;
+  color: #820000;
 }
 
 .custom-text-primary,
 .custom-text-primary p,
 .custom-text-primary a {
-  color: #007bff;
+  color: #7d0505;
 }
 
 .custom-text-primary a:hover {
-  color: #005cbf;
+  color: #6a0707;
 }
 
 .custom-text-danger,
 .custom-text-danger p,
 .custom-text-danger a {
-  color: #dc3545;
+  color: #920715;
 }
 
 .custom-text-danger a:hover {
